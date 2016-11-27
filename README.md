@@ -1,8 +1,8 @@
 # dllist
 Double linked list implemented in pure C.
 
-design choises for this implementation:
-1. The list and the structural element in the list is oth the same data type.  
+design choises for this implementation:  
+1. The list and the structural element in the list and the list is the same data type.  
 2. The list (or the head of the list) is part in the list to make implementation of insert and delete smart.  
 3. The list is not responsible for deleting the elements in the list. So on deletion a function that destroys the actual element is needed.  
 4. The data type stored in the list is a pointer to a void.  
