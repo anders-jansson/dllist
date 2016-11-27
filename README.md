@@ -12,4 +12,6 @@ struct DLL {
     struct DLL* next;
 };
 ```
+It will look like this if we draw an image:
+![alt text](https://github.com/anders-jansson/dllist/blob/master/design/1_cons2box.png "The struct DLL")
 
