@@ -14,7 +14,7 @@ The data type looks like this:
 
 And the Empty List:
 
-![alt text](https://github.com/anders-jansson/dllist/blob/master/design/1_cons2box.png "Empty list with next and prev pointers pointing to itself")
+![alt text](https://github.com/anders-jansson/dllist/blob/master/design/3_empty_list.png "Empty list with next and prev pointers pointing to itself")
 
 A List with three elements look like this:
 
