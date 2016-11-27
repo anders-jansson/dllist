@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="170.71231"
-   width="265.99121"
-   viewBox="0 0 265.99122 170.71231"
+   height="122.55725"
+   width="215.12508"
+   viewBox="0 0 215.12508 122.55725"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="1. cons2box.svg">
+   sodipodi:docname="1_cons2box.svg"
+   inkscape:export-filename="/home/anders/dev/dllist/design/1_cons2box.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs8" />
   <sodipodi:namedview
@@ -37,8 +40,8 @@
      fit-margin-bottom="10"
      units="px"
      inkscape:zoom="1.2685914"
-     inkscape:cx="258.287"
-     inkscape:cy="48.64139"
+     inkscape:cx="7.8011658"
+     inkscape:cy="25.919405"
      inkscape:window-x="93"
      inkscape:window-y="42"
      inkscape:window-maximized="1"
@@ -58,46 +61,46 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="49.207977"
-     y="49.865108"
+     x="23.774906"
+     y="24.432037"
      id="text3195"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3197"
-       x="49.207977"
-       y="49.865108">prev</tspan></text>
+       x="23.774906"
+       y="24.432037">prev</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="116.3623"
-     y="46.829556"
+     x="90.92923"
+     y="21.396484"
      id="text3199"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3201"
-       x="116.3623"
-       y="46.829556">data</tspan></text>
+       x="90.92923"
+       y="21.396484">data</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="182.45828"
-     y="52.38464"
+     x="157.02521"
+     y="26.951569"
      id="text3203"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3205"
-       x="182.45828"
-       y="52.38464">next</tspan></text>
+       x="157.02521"
+       y="26.951569">next</tspan></text>
   <rect
      style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.70000005;stroke-opacity:1"
      id="rect3218"
      width="39.610863"
      height="39.610863"
-     x="73.5793"
-     y="63.58041" />
+     x="48.146229"
+     y="38.147339" />
   <rect
-     y="63.58041"
-     x="113.19017"
+     y="38.147339"
+     x="87.757103"
      height="39.610863"
      width="39.610863"
      id="rect3220"
@@ -107,11 +110,11 @@
      id="rect3222"
      width="39.610863"
      height="39.610863"
-     x="152.80104"
-     y="63.58041" />
+     x="127.36797"
+     y="38.147339" />
   <g
      id="g3247"
-     transform="matrix(0,-1,1,0,-318.40476,231.68023)">
+     transform="matrix(0,-1,1,0,-343.83783,206.24716)">
     <circle
        r="4"
        cy="451.40036"
@@ -148,7 +151,7 @@
   </g>
   <g
      id="g3239"
-     transform="matrix(-1,0,0,1,320.90088,-368.01453)">
+     transform="matrix(-1,0,0,1,295.46781,-393.4476)">
     <circle
        r="4"
        cy="451.40036"
@@ -168,7 +171,7 @@
   </g>
   <g
      id="g3234"
-     transform="translate(-54.909667,-368.01453)">
+     transform="translate(-80.342738,-393.4476)">
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.70000005;stroke-opacity:1"
        id="circle3226"
@@ -189,12 +192,12 @@
   <text
      sodipodi:linespacing="125%"
      id="text3306"
-     y="136.01279"
-     x="147.01903"
+     y="110.57971"
+     x="121.58596"
      style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       y="136.01279"
-       x="147.01903"
+       y="110.57971"
+       x="121.58596"
        id="tspan3308"
        sodipodi:role="line">(= NULL)</tspan></text>
 </svg>
