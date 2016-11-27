@@ -1,11 +1,11 @@
 #ifndef DLLIST
-#define DLLIST 
+#define DLLIST
 
 /* --- Defintions of datatypes --------------------------------------------- */
 
 struct DLL {
     struct dll* prev;
-    void* data;
+    void*       data;
     struct dll* next;
 };
 
@@ -34,13 +34,13 @@ struct DLL*  next_dllist    (struct DLL* list, struct DLL* elem);
 struct DLL*  prev_dllist    (struct DLL* list, struct DLL* elem);
 
 
-/* --- Higher order functions  of double linked lists ---------------------- */
+/* --- Higher order functions of double linked lists ----------------------- */
 
-void         map_dllist     (struct DLL* list, void (*fn)(void *));
+void         map_dllist     (struct DLL* list, void (*fn)(void *val));
 struct DLL*  filter_dllist  (struct DLL* list, bool (*fn)(void *val));
 struct DLL*  find_dllist    (struct DLL* list, bool (*fn)(void *val));
-void*        reduce_dllist  (struct DLL* list, 
-                             void (*fn)(void *val, void *reduct), 
-                             void *initial);
+void*        reduce_dllist  (struct DLL* list,
+                             void* (*fn)(void *val, void *reduct),
+                             void* initial);
 
 #endif
